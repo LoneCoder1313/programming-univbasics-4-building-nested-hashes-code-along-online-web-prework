@@ -37,6 +37,10 @@ def
        :name => "Lord Capulet",
        :age => "51" }
   },
+  :matriarch => {
+    :name => "Lady Capulet",
+    :age => "51"
+  },
     :heroine => {
        :name => "Juliet",
        :age => "22",
